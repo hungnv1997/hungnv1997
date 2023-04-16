@@ -10,22 +10,20 @@ I'm a software developer based in VietNam. I enjoy coding open-source projects t
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
-
-![Tweetormator](/assets/tweetormator.jpg)
+I'm currently working on [@Bee-fast](https://www.npmjs.com/package/bee-fast). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
 
 &nbsp;
 
-## ✏️ &nbsp;Blog posts
+<!-- ## ✏️ &nbsp;Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
+<!-- - [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
 - [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
 - [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
+- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends) -->
 <!-- BLOG-POST-LIST:END -->
 
-&nbsp;
+<!-- &nbsp; -->
 
 ## 🧰 &nbsp;My toolbox
 
@@ -33,11 +31,11 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 
 &nbsp;
 
-## 🖥 &nbsp;Past work
+<!-- ## 🖥 &nbsp;Past work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/hungnv1997/Pwnagetty) &nbsp; 
 
-&nbsp;
+&nbsp; -->
 
 ## 📊 &nbsp;Stats
 
