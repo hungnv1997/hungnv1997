@@ -8,6 +8,18 @@ I'm a software developer based in VietNam. I enjoy coding open-source projects t
 
 &nbsp;
 
+## 🏆 &nbsp;Awards & Recognition
+
+<div align="center">
+  <img src="award-1.jpeg" alt="AI Star Award - May 2024" width="600"/>
+  
+  **AI Star of the Month - May 2024** 🌟
+  
+  *Recognized for outstanding contributions in AI development and innovation*
+</div>
+
+&nbsp;
+
 ## 👇 &nbsp;Current project
 
 I'm currently working on [@Bee-fast](https://www.npmjs.com/package/bee-fast). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
