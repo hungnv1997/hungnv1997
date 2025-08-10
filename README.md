@@ -16,6 +16,14 @@ I'm a software developer based in VietNam. I enjoy coding open-source projects t
   **AI Star of the Month - May 2024** 🌟
   
   *Recognized for outstanding contributions in AI development and innovation*
+  
+  <br/><br/>
+  
+  <img src="award-2.jpg" alt="Rikkei 3 Hackathon Achievement Award" width="600"/>
+  
+  **Rikkei 3 Hackathon - Achievement Award** 🏅
+  
+  *Winner of Achievement Award at Rikkei 3 Hackathon competition*
 </div>
 
 &nbsp;
