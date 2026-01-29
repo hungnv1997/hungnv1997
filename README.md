@@ -25,6 +25,13 @@ I'm a software developer based in VietNam. I enjoy coding open-source projects t
   *Winner of Achievement Award at Rikkei 3 Hackathon competition**
   <br/><br/>
   <img src="Nvidia_Certificate_Deep_learning.png" alt="Rikkei 3 Hackathon Achievement Award" width="600"/>
+  <br/><br/>
+  <img src="award-2.jpg" alt="Rikkei 3 Hackathon Achievement Award" width="600"/>
+  
+  **MKI Hackathon - The Best AI Innovation Award** 🏅
+  
+  **Winner of  The Best AI Innovation Award at MKI Hackathon competition**
+
 </div>
 
 &nbsp;
